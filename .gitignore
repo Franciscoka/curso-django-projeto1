@@ -127,7 +127,11 @@ _local_settings.py
 gunicorn-error-log
 db.sqlite3
 db copy.sqlite3
-static/
+media
+._db.sqlite3
+
+
+
 
 # Add again for course purpose
 # !db.sqlite3
