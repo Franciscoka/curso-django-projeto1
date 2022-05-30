@@ -129,7 +129,7 @@ db.sqlite3
 db copy.sqlite3
 media
 ._db.sqlite3
-
+._settings.py
 
 
 
